@@ -1,7 +1,7 @@
-Danube Cloud :: Factory
+Oz Technologies LLC, Danube Cloud :: Factory
 #######################
 
-This repository is used for building various components of Erigones Danube Cloud, as well as the final Danube Cloud USB key image.
+This repository is used for building various components of Erigones Danube Cloud, as well as the final Oz Technologies LLC Cloud USB key image.
 
 
 Output
